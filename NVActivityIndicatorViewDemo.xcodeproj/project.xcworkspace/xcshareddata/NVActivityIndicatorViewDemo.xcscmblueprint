@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B92D708343E9E08D72E436199DF321CD7A19BB99",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B92D708343E9E08D72E436199DF321CD7A19BB99" : 9223372036854775807,
+    "84AEFC7EE1DBA4134E7C025D125C0F065B935F2F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BAFBD9D6-AB55-4DB5-A33A-94007CD0F4F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B92D708343E9E08D72E436199DF321CD7A19BB99" : "ActivityIndicators\/",
+    "84AEFC7EE1DBA4134E7C025D125C0F065B935F2F" : "NVActivityIndicatorView"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NVActivityIndicatorViewDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NVActivityIndicatorViewDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:morizotter\/NVActivityIndicatorView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "84AEFC7EE1DBA4134E7C025D125C0F065B935F2F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/psvnanda\/ActivityIndicator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B92D708343E9E08D72E436199DF321CD7A19BB99"
+    }
+  ]
+}

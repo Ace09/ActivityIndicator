@@ -9,7 +9,7 @@
 import UIKit
 
 protocol NVActivityIndicatorAnimationDelegate {
-    func setUpAnimationInLayer(layer: CALayer, size: CGSize, color: UIColor)
+    func setUpAnimationInLayer(_ layer: CALayer, size: CGSize, color: UIColor)
 }
 // 版权属于原作者
 // http://code4app.com (cn) http://code4app.net (en)
